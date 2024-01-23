@@ -1,0 +1,1377 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7726910,
+          42.3608820
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.360882000000004,-3.7726909999999996",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3608820",
+            "Longitude": "-3.7726910"
+          }
+        },
+        "Published": "2023-05-16T21:57:13Z",
+        "Title": "42.360882000000004,-3.7726909999999996",
+        "Updated": "2023-05-16T21:57:13Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7434760,
+          42.3679990
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.367999,-3.743476",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3679990",
+            "Longitude": "-3.7434760"
+          }
+        },
+        "Published": "2023-05-16T21:55:26Z",
+        "Title": "42.367999,-3.743476",
+        "Updated": "2023-05-16T21:55:26Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7366720,
+          42.3752390
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.375239,-3.736672",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3752390",
+            "Longitude": "-3.7366720"
+          }
+        },
+        "Published": "2023-05-16T21:55:11Z",
+        "Title": "42.375239,-3.736672",
+        "Updated": "2023-05-16T21:55:11Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6044730,
+          42.3878520
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.387851999999995,-3.6044730000000005",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3878520",
+            "Longitude": "-3.6044730"
+          }
+        },
+        "Published": "2023-05-16T21:54:01Z",
+        "Title": "42.387851999999995,-3.6044730000000005",
+        "Updated": "2023-05-16T21:54:01Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7114640,
+          42.3633280
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.363327999999996,-3.711464",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3633280",
+            "Longitude": "-3.7114640"
+          }
+        },
+        "Published": "2023-05-16T21:49:23Z",
+        "Title": "42.363327999999996,-3.711464",
+        "Updated": "2023-05-16T21:49:23Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6267750,
+          42.3434960
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.343495999999995,-3.626775",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3434960",
+            "Longitude": "-3.6267750"
+          }
+        },
+        "Published": "2023-05-16T21:47:57Z",
+        "Title": "42.343495999999995,-3.626775",
+        "Updated": "2023-05-16T21:47:57Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6509980,
+          42.3446380
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.344637999999996,-3.6509980000000004",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3446380",
+            "Longitude": "-3.6509980"
+          }
+        },
+        "Published": "2023-05-15T18:04:54Z",
+        "Title": "42.344637999999996,-3.6509980000000004",
+        "Updated": "2023-05-15T18:04:54Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6485700,
+          42.3518590
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.351859,-3.6485699999999994",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3518590",
+            "Longitude": "-3.6485700"
+          }
+        },
+        "Published": "2023-05-15T18:02:58Z",
+        "Title": "42.351859,-3.6485699999999994",
+        "Updated": "2023-05-15T18:02:58Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6503720,
+          42.3559740
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.355973999999996,-3.6503720000000004",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3559740",
+            "Longitude": "-3.6503720"
+          }
+        },
+        "Published": "2023-05-15T18:02:30Z",
+        "Title": "42.355973999999996,-3.6503720000000004",
+        "Updated": "2023-05-15T18:02:30Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6525410,
+          42.3676790
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.367678999999995,-3.6525410000000003",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3676790",
+            "Longitude": "-3.6525410"
+          }
+        },
+        "Published": "2023-05-15T18:01:05Z",
+        "Title": "42.367678999999995,-3.6525410000000003",
+        "Updated": "2023-05-15T18:01:05Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6590060,
+          42.3674910
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.367491,-3.6590059999999998",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3674910",
+            "Longitude": "-3.6590060"
+          }
+        },
+        "Published": "2023-05-15T18:00:12Z",
+        "Title": "42.367491,-3.6590059999999998",
+        "Updated": "2023-05-15T18:00:12Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6621970,
+          42.3679060
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.367906,-3.662197",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3679060",
+            "Longitude": "-3.6621970"
+          }
+        },
+        "Published": "2023-05-15T17:59:24Z",
+        "Title": "42.367906,-3.662197",
+        "Updated": "2023-05-15T17:59:24Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6571550,
+          42.3655350
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.365535,-3.6571550000000004",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3655350",
+            "Longitude": "-3.6571550"
+          }
+        },
+        "Published": "2023-05-15T17:58:59Z",
+        "Title": "42.365535,-3.6571550000000004",
+        "Updated": "2023-05-15T17:58:59Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6573310,
+          42.3627440
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.362744,-3.6573309999999997",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3627440",
+            "Longitude": "-3.6573310"
+          }
+        },
+        "Published": "2023-05-15T17:58:40Z",
+        "Title": "42.362744,-3.6573309999999997",
+        "Updated": "2023-05-15T17:58:40Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6599620,
+          42.3639350
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.363935,-3.6599619999999997",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3639350",
+            "Longitude": "-3.6599620"
+          }
+        },
+        "Published": "2023-05-15T17:58:20Z",
+        "Title": "42.363935,-3.6599619999999997",
+        "Updated": "2023-05-15T17:58:20Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6660050,
+          42.3625800
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.36258,-3.6660049999999997",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3625800",
+            "Longitude": "-3.6660050"
+          }
+        },
+        "Published": "2023-05-15T17:56:08Z",
+        "Title": "42.36258,-3.6660049999999997",
+        "Updated": "2023-05-15T17:56:08Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6663100,
+          42.3592830
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.359283,-3.6663099999999997",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3592830",
+            "Longitude": "-3.6663100"
+          }
+        },
+        "Published": "2023-05-15T17:54:59Z",
+        "Title": "42.359283,-3.6663099999999997",
+        "Updated": "2023-05-15T17:54:59Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6646330,
+          42.3467800
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.346779999999995,-3.6646330000000003",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3467800",
+            "Longitude": "-3.6646330"
+          }
+        },
+        "Published": "2023-05-15T17:53:09Z",
+        "Title": "42.346779999999995,-3.6646330000000003",
+        "Updated": "2023-05-15T17:53:09Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6646290,
+          42.3520700
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.35207,-3.6646289999999997",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3520700",
+            "Longitude": "-3.6646290"
+          }
+        },
+        "Published": "2023-05-15T17:52:36Z",
+        "Title": "42.35207,-3.6646289999999997",
+        "Updated": "2023-05-15T17:52:36Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6674880,
+          42.3636530
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.363653,-3.6674879999999996",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3636530",
+            "Longitude": "-3.6674880"
+          }
+        },
+        "Published": "2023-05-15T17:51:02Z",
+        "Title": "42.363653,-3.6674879999999996",
+        "Updated": "2023-05-15T17:51:02Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6780300,
+          42.3603400
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.36034,-3.6780299999999997",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3603400",
+            "Longitude": "-3.6780300"
+          }
+        },
+        "Published": "2023-05-15T17:49:04Z",
+        "Title": "42.36034,-3.6780299999999997",
+        "Updated": "2023-05-15T17:49:04Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6730670,
+          42.3629680
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.362967999999995,-3.673066999999999",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3629680",
+            "Longitude": "-3.6730670"
+          }
+        },
+        "Published": "2023-05-15T17:48:30Z",
+        "Title": "42.362967999999995,-3.673066999999999",
+        "Updated": "2023-05-15T17:48:30Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6656840,
+          42.3556360
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.355636,-3.6656839999999997",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3556360",
+            "Longitude": "-3.6656840"
+          }
+        },
+        "Published": "2023-05-15T17:46:40Z",
+        "Title": "42.355636,-3.6656839999999997",
+        "Updated": "2023-05-15T17:46:40Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6700080,
+          42.3537380
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.353738,-3.6700079999999997",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3537380",
+            "Longitude": "-3.6700080"
+          }
+        },
+        "Published": "2023-05-15T17:45:57Z",
+        "Title": "42.353738,-3.6700079999999997",
+        "Updated": "2023-05-15T17:45:57Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6723730,
+          42.3572080
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.357208,-3.6723730000000003",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3572080",
+            "Longitude": "-3.6723730"
+          }
+        },
+        "Published": "2023-05-15T17:42:44Z",
+        "Title": "42.357208,-3.6723730000000003",
+        "Updated": "2023-05-15T17:42:44Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6782610,
+          42.3558590
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.355858999999995,-3.6782610000000004",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3558590",
+            "Longitude": "-3.6782610"
+          }
+        },
+        "Published": "2023-05-15T17:42:19Z",
+        "Title": "42.355858999999995,-3.6782610000000004",
+        "Updated": "2023-05-15T17:42:19Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6772540,
+          42.3488710
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.348870999999995,-3.677254",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3488710",
+            "Longitude": "-3.6772540"
+          }
+        },
+        "Published": "2023-05-15T17:40:55Z",
+        "Title": "42.348870999999995,-3.677254",
+        "Updated": "2023-05-15T17:40:55Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6783780,
+          42.3468670
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.346866999999996,-3.6783780000000004",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3468670",
+            "Longitude": "-3.6783780"
+          }
+        },
+        "Published": "2023-05-15T17:40:28Z",
+        "Title": "42.346866999999996,-3.6783780000000004",
+        "Updated": "2023-05-15T17:40:28Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6849000,
+          42.3477800
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.34778,-3.6848999999999994",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3477800",
+            "Longitude": "-3.6849000"
+          }
+        },
+        "Published": "2023-05-15T17:39:22Z",
+        "Title": "42.34778,-3.6848999999999994",
+        "Updated": "2023-05-15T17:39:22Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6840270,
+          42.3507640
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.350764,-3.6840270000000004",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3507640",
+            "Longitude": "-3.6840270"
+          }
+        },
+        "Published": "2023-05-15T17:38:47Z",
+        "Title": "42.350764,-3.6840270000000004",
+        "Updated": "2023-05-15T17:38:47Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6860010,
+          42.3565040
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.356504,-3.6860009999999996",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3565040",
+            "Longitude": "-3.6860010"
+          }
+        },
+        "Published": "2023-05-15T17:37:03Z",
+        "Title": "42.356504,-3.6860009999999996",
+        "Updated": "2023-05-15T17:37:03Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6957580,
+          42.3545590
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.354558999999995,-3.695757999999999",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3545590",
+            "Longitude": "-3.6957580"
+          }
+        },
+        "Published": "2023-05-15T17:36:11Z",
+        "Title": "42.354558999999995,-3.695757999999999",
+        "Updated": "2023-05-15T17:36:11Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6922550,
+          42.3560600
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.35606,-3.692255",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3560600",
+            "Longitude": "-3.6922550"
+          }
+        },
+        "Published": "2023-05-15T17:35:25Z",
+        "Title": "42.35606,-3.692255",
+        "Updated": "2023-05-15T17:35:25Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6912210,
+          42.3543590
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.354358999999995,-3.691221",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3543590",
+            "Longitude": "-3.6912210"
+          }
+        },
+        "Published": "2023-05-15T17:31:11Z",
+        "Title": "42.354358999999995,-3.691221",
+        "Updated": "2023-05-15T17:31:11Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6946780,
+          42.3523530
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.352353,-3.6946779999999997",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3523530",
+            "Longitude": "-3.6946780"
+          }
+        },
+        "Published": "2023-05-15T17:30:48Z",
+        "Title": "42.352353,-3.6946779999999997",
+        "Updated": "2023-05-15T17:30:48Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6883300,
+          42.3434350
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.343435,-3.68833",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3434350",
+            "Longitude": "-3.6883300"
+          }
+        },
+        "Published": "2023-05-15T17:29:55Z",
+        "Title": "42.343435,-3.68833",
+        "Updated": "2023-05-15T17:29:55Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6921600,
+          42.3452060
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.345206,-3.6921600000000003",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3452060",
+            "Longitude": "-3.6921600"
+          }
+        },
+        "Published": "2023-05-15T17:29:23Z",
+        "Title": "42.345206,-3.6921600000000003",
+        "Updated": "2023-05-15T17:29:23Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6990860,
+          42.3491810
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.34918100000001,-3.6990859999999994",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3491810",
+            "Longitude": "-3.6990860"
+          }
+        },
+        "Published": "2023-05-15T17:28:49Z",
+        "Title": "42.34918100000001,-3.6990859999999994",
+        "Updated": "2023-05-15T17:28:49Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6973640,
+          42.3437910
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.343790999999996,-3.6973639999999994",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3437910",
+            "Longitude": "-3.6973640"
+          }
+        },
+        "Published": "2023-05-15T17:27:20Z",
+        "Title": "42.343790999999996,-3.6973639999999994",
+        "Updated": "2023-05-15T17:27:20Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7015530,
+          42.3458810
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.345881,-3.701552999999999",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3458810",
+            "Longitude": "-3.7015530"
+          }
+        },
+        "Published": "2023-05-15T17:26:41Z",
+        "Title": "42.345881,-3.701552999999999",
+        "Updated": "2023-05-15T17:26:41Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7066560,
+          42.3417050
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.341705,-3.706656",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3417050",
+            "Longitude": "-3.7066560"
+          }
+        },
+        "Published": "2023-05-15T17:25:36Z",
+        "Title": "42.341705,-3.706656",
+        "Updated": "2023-05-15T17:25:36Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7069670,
+          42.3406250
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.340624999999996,-3.7069669999999997",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3406250",
+            "Longitude": "-3.7069670"
+          }
+        },
+        "Published": "2023-05-15T17:25:16Z",
+        "Title": "42.340624999999996,-3.7069669999999997",
+        "Updated": "2023-05-15T17:25:16Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7145440,
+          42.3475000
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.3475,-3.714544",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3475000",
+            "Longitude": "-3.7145440"
+          }
+        },
+        "Published": "2023-05-15T17:24:32Z",
+        "Title": "42.3475,-3.714544",
+        "Updated": "2023-05-15T17:24:32Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7125300,
+          42.3430720
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.34307200000001,-3.7125299999999997",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3430720",
+            "Longitude": "-3.7125300"
+          }
+        },
+        "Published": "2023-05-15T17:23:57Z",
+        "Title": "42.34307200000001,-3.7125299999999997",
+        "Updated": "2023-05-15T17:23:57Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7154090,
+          42.3418140
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.341814,-3.715409",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3418140",
+            "Longitude": "-3.7154090"
+          }
+        },
+        "Published": "2023-05-15T17:22:38Z",
+        "Title": "42.341814,-3.715409",
+        "Updated": "2023-05-15T17:22:38Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7185610,
+          42.3444550
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.344454999999996,-3.7185610000000002",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3444550",
+            "Longitude": "-3.7185610"
+          }
+        },
+        "Published": "2023-05-15T17:21:58Z",
+        "Title": "42.344454999999996,-3.7185610000000002",
+        "Updated": "2023-05-15T17:21:58Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6893545,
+          42.3504659
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Burgos&ftid=0xd45fcbe3dc20327:0xa1f5beab8e71aa1",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3504659",
+            "Longitude": "-3.6893545"
+          }
+        },
+        "Published": "2023-05-15T17:20:44Z",
+        "Title": "Burgos",
+        "Updated": "2023-05-15T17:20:44Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6888257,
+          42.3391509
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=C.+San+Pedro+de+Carde%C3%B1a,+38-54,+09002+Burgos&ftid=0xd45fccc19a903d5:0x53a061469f561b22",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3391509",
+            "Longitude": "-3.6888257"
+          }
+        },
+        "Published": "2023-05-15T17:20:05Z",
+        "Title": "C. San Pedro de Cardeña, 38-54, 09002 Burgos",
+        "Updated": "2023-05-15T17:20:05Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6916051,
+          42.3363599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Calle+Carcedo,+17,+09002+Burgos&ftid=0xd45fccd6d19d7ff:0x999eefe1931d06de",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3363599",
+            "Longitude": "-3.6916051"
+          }
+        },
+        "Published": "2023-05-15T17:17:58Z",
+        "Title": "Calle Carcedo, 17, 09002 Burgos",
+        "Updated": "2023-05-15T17:17:58Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6947870,
+          42.3376620
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.337661999999995,-3.694787",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3376620",
+            "Longitude": "-3.6947870"
+          }
+        },
+        "Published": "2023-05-15T17:17:31Z",
+        "Title": "42.337661999999995,-3.694787",
+        "Updated": "2023-05-15T17:17:31Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6987892,
+          42.3393672
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=12391209954334131017",
+        "Location": {
+          "Address": "C. San Pablo, 3, 09002 Burgos, España",
+          "Business Name": "Pecaditos",
+          "Country Code": "ES",
+          "Geo Coordinates": {
+            "Latitude": "42.3393672",
+            "Longitude": "-3.6987892"
+          }
+        },
+        "Published": "2023-05-15T17:16:24Z",
+        "Title": "Pecaditos",
+        "Updated": "2023-05-15T17:16:24Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6988250,
+          42.3332380
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.333238,-3.698825",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3332380",
+            "Longitude": "-3.6988250"
+          }
+        },
+        "Published": "2023-05-15T17:15:25Z",
+        "Title": "42.333238,-3.698825",
+        "Updated": "2023-05-15T17:15:25Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7054717,
+          42.3368492
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=4014755298725337601",
+        "Location": {
+          "Address": "P.º Empecinado, 1, 09001 Burgos, España",
+          "Business Name": "Carmelitas Descalzos Provincia San Juan",
+          "Geo Coordinates": {
+            "Latitude": "42.3368492",
+            "Longitude": "-3.7054717"
+          }
+        },
+        "Published": "2023-05-15T17:14:52Z",
+        "Title": "Carmelitas Descalzos Provincia San Juan",
+        "Updated": "2023-05-15T17:14:52Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7001490,
+          42.3299150
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.329915,-3.7001489999999997",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3299150",
+            "Longitude": "-3.7001490"
+          }
+        },
+        "Published": "2023-05-15T17:14:21Z",
+        "Title": "42.329915,-3.7001489999999997",
+        "Updated": "2023-05-15T17:14:21Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7047110,
+          42.3346570
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.334657,-3.704711",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3346570",
+            "Longitude": "-3.7047110"
+          }
+        },
+        "Published": "2023-05-15T17:13:46Z",
+        "Title": "42.334657,-3.704711",
+        "Updated": "2023-05-15T17:13:46Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7036700,
+          42.3329200
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=C.+de+los+Alfareros,+3A,+09001+Burgos&ftid=0xd45e2d568319daf:0xb9d3e5581fb35f33",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3329200",
+            "Longitude": "-3.7036700"
+          }
+        },
+        "Published": "2023-05-15T17:13:26Z",
+        "Title": "C. de los Alfareros, 3A, 09001 Burgos",
+        "Updated": "2023-05-15T17:13:26Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7097560,
+          42.3308100
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.33081,-3.7097560000000005",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3308100",
+            "Longitude": "-3.7097560"
+          }
+        },
+        "Published": "2023-05-15T17:10:50Z",
+        "Title": "42.33081,-3.7097560000000005",
+        "Updated": "2023-05-15T17:10:50Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7166430,
+          42.3343640
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.33436400000001,-3.7166429999999995",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3343640",
+            "Longitude": "-3.7166430"
+          }
+        },
+        "Published": "2023-05-15T17:09:06Z",
+        "Title": "42.33436400000001,-3.7166429999999995",
+        "Updated": "2023-05-15T17:09:06Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7190580,
+          42.3367980
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.336797999999995,-3.719058",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3367980",
+            "Longitude": "-3.7190580"
+          }
+        },
+        "Published": "2023-05-15T16:09:08Z",
+        "Title": "42.336797999999995,-3.719058",
+        "Updated": "2023-05-15T16:09:08Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7257720,
+          42.3376240
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=17967283546164350857",
+        "Location": {
+          "Address": "C. Condes de Berberana, 09001 Burgos, España",
+          "Business Name": "Restaurante el Angel",
+          "Country Code": "ES",
+          "Geo Coordinates": {
+            "Latitude": "42.3376240",
+            "Longitude": "-3.7257720"
+          }
+        },
+        "Published": "2023-05-15T16:07:25Z",
+        "Title": "Restaurante el Angel",
+        "Updated": "2023-05-15T16:07:25Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7324751,
+          42.3417199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=C.+Hornillos,+27-17,+09001+Burgos&ftid=0xd45fd4fc23550f7:0x27bca137b670bb72",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3417199",
+            "Longitude": "-3.7324751"
+          }
+        },
+        "Published": "2023-05-15T16:06:08Z",
+        "Title": "C. Hornillos, 27-17, 09001 Burgos",
+        "Updated": "2023-05-15T16:06:08Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7408740,
+          42.3426600
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.342659999999995,-3.740874",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3426600",
+            "Longitude": "-3.7408740"
+          }
+        },
+        "Published": "2023-05-15T16:05:37Z",
+        "Title": "42.342659999999995,-3.740874",
+        "Updated": "2023-05-15T16:05:37Z"
+      },
+      "type": "Feature"
+    }
+  ]
+}

@@ -1,0 +1,595 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7117810,
+          42.3634070
+        ],
+        "categoria": "inhabilitado",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.363406999999995,-3.711781",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3634070",
+            "Longitude": "-3.7117810"
+          }
+        },
+        "Published": "2023-05-16T23:38:04Z",
+        "Title": "42.363406999999995,-3.711781",
+        "Updated": "2023-05-16T23:38:04Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7039980,
+          42.3030430
+        ],
+        "categoria": "rapida",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.303043,-3.7039979999999995",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3030430",
+            "Longitude": "-3.7039980"
+          }
+        },
+        "Published": "2023-05-16T23:37:27Z",
+        "Title": "42.303043,-3.7039979999999995",
+        "Updated": "2023-05-16T23:37:27Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7021920,
+          42.3044930
+        ],
+        "categoria": "rapida",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.304493,-3.7021919999999997",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3044930",
+            "Longitude": "-3.7021920"
+          }
+        },
+        "Published": "2023-05-16T23:37:04Z",
+        "Title": "42.304493,-3.7021919999999997",
+        "Updated": "2023-05-16T23:37:04Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7042005,
+          42.3122859
+        ],
+        "categoria": "rapida",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=13147132538927251203",
+        "Location": {
+          "Address": "Km 235, A-1, 09001 Burgos, España",
+          "Business Name": "Tesla Supercharger",
+          "Country Code": "ES",
+          "Geo Coordinates": {
+            "Latitude": "42.3122859",
+            "Longitude": "-3.7042005"
+          }
+        },
+        "Published": "2023-05-16T23:36:24Z",
+        "Title": "Tesla Supercharger",
+        "Updated": "2023-05-16T23:36:24Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7040330,
+          42.3384610
+        ],
+        "categoria": "lenta",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.338460999999995,-3.7040329999999995",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3384610",
+            "Longitude": "-3.7040330"
+          }
+        },
+        "Published": "2023-05-16T23:35:14Z",
+        "Title": "42.338460999999995,-3.7040329999999995",
+        "Updated": "2023-05-16T23:35:14Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6967150,
+          42.3389130
+        ],
+        "categoria": "Inhabilitado",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.338913,-3.696715",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3389130",
+            "Longitude": "-3.6967150"
+          }
+        },
+        "Published": "2023-05-16T23:33:47Z",
+        "Title": "42.338913,-3.696715",
+        "Updated": "2023-05-16T23:33:47Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6989660,
+          42.3396960
+        ],
+        "categoria": "media",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.339696,-3.698966",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3396960",
+            "Longitude": "-3.6989660"
+          }
+        },
+        "Published": "2023-05-16T23:33:21Z",
+        "Title": "42.339696,-3.698966",
+        "Updated": "2023-05-16T23:33:21Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6945690,
+          42.3421500
+        ],
+        "categoria": "lenta",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.34215,-3.6945689999999995",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3421500",
+            "Longitude": "-3.6945690"
+          }
+        },
+        "Published": "2023-05-16T23:32:37Z",
+        "Title": "42.34215,-3.6945689999999995",
+        "Updated": "2023-05-16T23:32:37Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6528100,
+          42.3606500
+        ],
+        "categoria": "rapida",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=6593739362078201499",
+        "Location": {
+          "Address": "C. Alcalde Martín Cobos, 19, 09007 Burgos, España",
+          "Business Name": "Beroil Foro",
+          "Country Code": "ES",
+          "Geo Coordinates": {
+            "Latitude": "42.3606500",
+            "Longitude": "-3.6528100"
+          }
+        },
+        "Published": "2023-05-16T23:18:44Z",
+        "Title": "Beroil Foro",
+        "Updated": "2023-05-16T23:18:44Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6850980,
+          42.3630360
+        ],
+        "categoria": "lenta",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=7257314915903420426",
+        "Location": {
+          "Address": "Av. Islas Baleares, 3, 09006 Burgos, España",
+          "Business Name": "Iberdrola Charging Station",
+          "Country Code": "ES",
+          "Geo Coordinates": {
+            "Latitude": "42.3630360",
+            "Longitude": "-3.6850980"
+          }
+        },
+        "Published": "2023-05-16T23:17:16Z",
+        "Title": "Iberdrola Charging Station",
+        "Updated": "2023-05-16T23:17:16Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6940744,
+          42.3583972
+        ],
+        "categoria": "rapida",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=256934168554204849",
+        "Location": {
+          "Address": "Mirador, Carretera Santander, KM 2 C.C. El, 09006 Burgos, España",
+          "Business Name": "Estación de Servicio Vista Alegre",
+          "Country Code": "ES",
+          "Geo Coordinates": {
+            "Latitude": "42.3583972",
+            "Longitude": "-3.6940744"
+          }
+        },
+        "Published": "2023-05-16T23:16:28Z",
+        "Title": "Estación de Servicio Vista Alegre",
+        "Updated": "2023-05-16T23:16:28Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6758180,
+          42.3597450
+        ],
+        "categoria": "rapida",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.359745,-3.675818",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3597450",
+            "Longitude": "-3.6758180"
+          }
+        },
+        "Published": "2023-05-16T23:15:32Z",
+        "Title": "42.359745,-3.675818",
+        "Updated": "2023-05-16T23:15:32Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6745410,
+          42.3535970
+        ],
+        "categoria": "rapida",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.353597,-3.674541",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3535970",
+            "Longitude": "-3.6745410"
+          }
+        },
+        "Published": "2023-05-16T23:14:47Z",
+        "Title": "42.353597,-3.674541",
+        "Updated": "2023-05-16T23:14:47Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6689400,
+          42.3505540
+        ],
+        "categoria": "Inhabilitado",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.350553999999995,-3.6689399999999996",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3505540",
+            "Longitude": "-3.6689400"
+          }
+        },
+        "Published": "2023-05-16T23:14:14Z",
+        "Title": "42.350553999999995,-3.6689399999999996",
+        "Updated": "2023-05-16T23:14:14Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6589940,
+          42.3466840
+        ],
+        "categoria": "rapida",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.346683999999996,-3.6589940000000003",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3466840",
+            "Longitude": "-3.6589940"
+          }
+        },
+        "Published": "2023-05-16T23:13:06Z",
+        "Title": "42.346683999999996,-3.6589940000000003",
+        "Updated": "2023-05-16T23:13:06Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6869710,
+          42.3459410
+        ],
+        "categoria": "rapida",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.345940999999996,-3.6869709999999998",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3459410",
+            "Longitude": "-3.6869710"
+          }
+        },
+        "Published": "2023-05-16T23:11:51Z",
+        "Title": "42.345940999999996,-3.6869709999999998",
+        "Updated": "2023-05-16T23:11:51Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6961070,
+          42.3472970
+        ],
+        "categoria": "rapida",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.347297,-3.6961069999999996",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3472970",
+            "Longitude": "-3.6961070"
+          }
+        },
+        "Published": "2023-05-16T23:11:33Z",
+        "Title": "42.347297,-3.6961069999999996",
+        "Updated": "2023-05-16T23:11:33Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6984930,
+          42.3450100
+        ],
+        "categoria": "rapida",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.345009999999995,-3.6984929999999996",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3450100",
+            "Longitude": "-3.6984930"
+          }
+        },
+        "Published": "2023-05-16T23:10:15Z",
+        "Title": "42.345009999999995,-3.6984929999999996",
+        "Updated": "2023-05-16T23:10:15Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6960450,
+          42.3439910
+        ],
+        "categoria": "rapida",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.343990999999995,-3.6960449999999994",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3439910",
+            "Longitude": "-3.6960450"
+          }
+        },
+        "Published": "2023-05-16T23:09:52Z",
+        "Title": "42.343990999999995,-3.6960449999999994",
+        "Updated": "2023-05-16T23:09:52Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6954210,
+          42.3402980
+        ],
+        "categoria": "rapida",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.340298,-3.6954209999999996",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3402980",
+            "Longitude": "-3.6954210"
+          }
+        },
+        "Published": "2023-05-16T23:09:23Z",
+        "Title": "42.340298,-3.6954209999999996",
+        "Updated": "2023-05-16T23:09:23Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7018940,
+          42.3411580
+        ],
+        "categoria": "lenta",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.341158,-3.701894",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3411580",
+            "Longitude": "-3.7018940"
+          }
+        },
+        "Published": "2023-05-16T23:08:42Z",
+        "Title": "42.341158,-3.701894",
+        "Updated": "2023-05-16T23:08:42Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7006754,
+          42.3368110
+        ],
+        "categoria": "media",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=11166071631544478318",
+        "Location": {
+          "Address": "Calle Madrid, 13, 1º B, 09002 Burgos, España",
+          "Business Name": "Dr. Tomás Gil Cuesta, Dentista",
+          "Country Code": "ES",
+          "Geo Coordinates": {
+            "Latitude": "42.3368110",
+            "Longitude": "-3.7006754"
+          }
+        },
+        "Published": "2023-05-16T23:06:50Z",
+        "Title": "Dr. Tomás Gil Cuesta, Dentista",
+        "Updated": "2023-05-16T23:06:50Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7019840,
+          42.3326860
+        ],
+        "categoria": "rapida",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.332685999999995,-3.7019840000000004",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3326860",
+            "Longitude": "-3.7019840"
+          }
+        },
+        "Published": "2023-05-16T23:05:52Z",
+        "Title": "42.332685999999995,-3.7019840000000004",
+        "Updated": "2023-05-16T23:05:52Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7053220,
+          42.3367920
+        ],
+        "categoria": "rapida",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.336791999999996,-3.7053219999999993",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3367920",
+            "Longitude": "-3.7053220"
+          }
+        },
+        "Published": "2023-05-16T23:05:06Z",
+        "Title": "42.336791999999996,-3.7053219999999993",
+        "Updated": "2023-05-16T23:05:06Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7304260,
+          42.3423670
+        ],
+        "categoria": "rapida",
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.342366999999996,-3.7304260000000005",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3423670",
+            "Longitude": "-3.7304260"
+          }
+        },
+        "Published": "2023-05-16T23:04:29Z",
+        "Title": "42.342366999999996,-3.7304260000000005",
+        "Updated": "2023-05-16T23:04:29Z"
+      },
+      "type": "Feature"
+    }
+  ]
+}

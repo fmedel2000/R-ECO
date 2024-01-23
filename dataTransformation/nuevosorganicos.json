@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7202050,
+          42.3451440
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.345144,-3.7202050000000004",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3451440",
+            "Longitude": "-3.7202050"
+          }
+        },
+        "Published": "2023-05-18T00:12:10Z",
+        "Title": "42.345144,-3.7202050000000004",
+        "Updated": "2023-05-18T00:12:10Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7262040,
+          42.3448680
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.344868,-3.7262039999999996",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3448680",
+            "Longitude": "-3.7262040"
+          }
+        },
+        "Published": "2023-05-18T00:11:43Z",
+        "Title": "42.344868,-3.7262039999999996",
+        "Updated": "2023-05-18T00:11:43Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7314640,
+          42.3424580
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.342458,-3.7314640000000003",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3424580",
+            "Longitude": "-3.7314640"
+          }
+        },
+        "Published": "2023-05-18T00:11:28Z",
+        "Title": "42.342458,-3.7314640000000003",
+        "Updated": "2023-05-18T00:11:28Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7218290,
+          42.3443330
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.344333,-3.721828999999999",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3443330",
+            "Longitude": "-3.7218290"
+          }
+        },
+        "Published": "2023-05-18T00:08:08Z",
+        "Title": "42.344333,-3.721828999999999",
+        "Updated": "2023-05-18T00:08:08Z"
+      },
+      "type": "Feature"
+    }
+  ]
+}
